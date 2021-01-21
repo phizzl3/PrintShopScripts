@@ -1,2 +1,3 @@
-# counter-calculator
- A simple calculator for calculating materials in Print Production.
+# PrintShop-Scripts
+
+A group of quick scripts for use in Print Production.
