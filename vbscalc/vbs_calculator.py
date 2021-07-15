@@ -2,6 +2,8 @@
 Calculates monthly Waste & VBS.
 """
 
+import logfile
+
 
 def add_loop() -> int:
     """
@@ -84,6 +86,7 @@ def vbs_main() -> None:
     get_waste(data_set)
     get_credits(data_set)
     display_totals(data_set)
+    logfile.write(data_set)
 
     input('\n Press ENTER to return...')
 
