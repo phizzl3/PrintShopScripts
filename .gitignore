@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Log File
+vbscalc/logs/vbs_log.txt
