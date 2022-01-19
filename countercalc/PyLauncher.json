@@ -1,6 +1,6 @@
 {
     "Display Info": "Counter Sheet Calculator",
     "Project Folder": "PrintShopScripts",
-    "Script Path": "countercalc/counter_calculator.py",
+    "Script Path": "countercalc/counter_calculator_loop.py",
     "Env Folder": null
 }
