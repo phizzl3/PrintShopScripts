@@ -1,6 +1,6 @@
 {
     "Display Info": "Per Set Materials Calculator",
     "Project Folder": "PrintShopScripts",
-    "Script Path": "materialscalc/materials_calculator.py",
+    "Script Path": "materialscalc/materials_calculator_loop.py",
     "Env Folder": null
 }
